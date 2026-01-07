@@ -1,1 +1,0 @@
-sql/01_create_transactions_scaled.sql
